@@ -1,5 +1,6 @@
 # PLSQL GOTO and Functions Assignment
-Student: Sharon Mulisa - 20251IMA030
+Student: Nzabarinda Ishimwe Armstrong
+ID: 29391
 
 ## Repository Structure
 - 00_setup/ - Table creation scripts
